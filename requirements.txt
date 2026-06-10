@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+scipy
+statsmodels
+PyMuPDF
+pdfplumber
+openpyxl
+pyarrow
